@@ -9,3 +9,8 @@
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: **solla sollew** is from a children book: *I Had Trouble in Getting to Solla Sollew* Book by Dr Seuss
 
+<p align="left" dir="auto"> 
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="azure" width="50" height="50" style="padding-right:10; padding-left:10;">
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="azure" width="50" height="50" style="padding-right:10; padding-left:10;">
+</p>
+
