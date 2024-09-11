@@ -9,8 +9,21 @@
 - 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: **solla sollew** is from a children book: *I Had Trouble in Getting to Solla Sollew* Book by Dr Seuss
 
-<p align="left" dir="auto"> 
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="azure" width="50" height="50" style="padding-right:10; padding-left:10;">
-  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="azure" width="50" height="50" style="padding-right:10; padding-left:10;">
+## Languages & Tools 
+<p align="left"> 
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="NodeJs" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000" alt="Augular" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" alt="JavaScript" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="SpringBoot" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50">
 </p>
-
