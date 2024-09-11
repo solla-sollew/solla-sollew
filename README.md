@@ -26,4 +26,6 @@
   <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50" height="50">
   &nbsp
   <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="PostgreSQL" width="50" height="50">
+  &nbsp
+  <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" alt="Selenium" width="50" height="50">
 </p>
