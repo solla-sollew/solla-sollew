@@ -6,7 +6,6 @@
 - 🤔 I’m looking for help with joining K8s community
 - 💬 Ask me about Java
 - 📫 How to reach me: shijun.james@gmail.com
-- 😄 Pronouns: He / His / Him
 - ⚡ Fun fact: **solla sollew** is from a children book: *I Had Trouble in Getting to Solla Sollew* Book by Dr Seuss
 
 ## Languages & Tools 
