@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on getting Microsoft Certified: Azure Fundamentals AZ900
+- 🔭 I’m currently working on getting Microsoft Certified: Azure administrators AZ-104
 - 🌱 I’m currently learning Cloud Support and DevOp
 - 👯 I’m looking to collaborate on k8s
 - 🤔 I’m looking for help with joining K8s community
