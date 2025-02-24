@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on getting Microsoft Certified: Azure administrators AZ-104
-- 🌱 I’m currently learning Cloud Support and DevOp
-- 👯 I’m looking to collaborate on k8s
-- 🤔 I’m looking for help with joining K8s community
+- 🔭 I’m currently working on getting Google Cybersecurity
+- 🌱 I’m currently learning Module 1 - Foundations of Cybersecurity
+- 👯 I’m looking to create a cybersecurity portfolio
+- 🤔 I’m looking for help with joining << still searching for a community>>
 - 💬 Ask me about Java
 - 📫 How to reach me: shijun.james@gmail.com
 - ⚡ Fun fact: **solla sollew** is from a children book: *I Had Trouble in Getting to Solla Sollew* Book by Dr Seuss
