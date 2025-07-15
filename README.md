@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on getting Google Cybersecurity
-- 🌱 I’m currently learning Module 1 - Foundations of Cybersecurity
+- 🔭 I’m currently working on getting Certified in Cybersecurity (CC) from ISC2
 - 👯 I’m looking to create a cybersecurity portfolio
 - 🤔 I’m looking for help with joining << still searching for a community>>
 - 💬 Ask me about Java
